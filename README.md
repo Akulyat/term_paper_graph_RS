@@ -1,2 +1,5 @@
-# term_paper_graph_RS
-Term paper of the 3 year in HSE: Inductive Learning of Graph-based Models for Recommender Systems
+# Inductive Learning of Graph-based Models for Recommender Systems
+Term paper of the 3 year at HSE
+
+Recommender systems are used in a variety of tasks, but there are still many limitations on their specifics. This paper explores approaches to generalize the field of application of popular algorithms on graphs in order to improve their prediction quality and performance.
+Keywords: Recommender Systems, Deep Learning, Graph Theory
